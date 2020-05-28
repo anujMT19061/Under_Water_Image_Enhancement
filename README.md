@@ -1,4 +1,3 @@
-# Under_Water_Image_Enhancement
 ***************************************************************************************************
 
 The aim was to improve the image quality of underwater images. Implement the white
